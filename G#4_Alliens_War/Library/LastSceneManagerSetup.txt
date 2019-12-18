@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/G4_L1_Nawaz.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
